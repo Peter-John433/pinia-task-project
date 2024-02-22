@@ -23,7 +23,7 @@ export default {
 
 <style scoped>
   img{
-    max-width: 80px;
+    max-width: 50px;
     width: 100%;
     object-fit: cover;
     transform: rotate(-10deg);
@@ -34,7 +34,7 @@ export default {
      font-family: Arial, Helvetica, sans-serif;
      text-transform: capitalize;
      /* transform: rotate(-2deg); */
-     color: #0d0d0d;
+     color: white;
   }
 
   .header{
@@ -42,7 +42,7 @@ export default {
     justify-content: center;
     align-items: center;
     gap: 2.5rem;
-    background-color: #d0d0d0;
+    background-color: black;
     padding: 10px 0;
     border-bottom: 5px solid yellow;
   }
