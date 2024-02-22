@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="container">
+        <div class="header">
             <div>
                 <img src="../assets/img/pinia-seeklogo.svg" alt="pinia-logo">
             </div>
@@ -37,7 +37,7 @@ export default {
      color: #0d0d0d;
   }
 
-  .container{
+  .header{
     display: flex;
     justify-content: center;
     align-items: center;
